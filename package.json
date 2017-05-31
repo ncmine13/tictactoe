@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "An AI tic tac toe game written in node and running in the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncmine13/tictactoe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncmine13/tictactoe/issues"
+  },
+  "homepage": "https://github.com/ncmine13/tictactoe#readme",
+  "dependencies": {
+    "intercept-stdout": "^0.1.2",
+    "jasmine": "^2.6.0"
+  }
+}
