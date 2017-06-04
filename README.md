@@ -13,4 +13,4 @@ To do:
 • Construct a UI
 
 
-This challenge allowed me to learn and practice the node process object and to practice writing tests. 
+This challenge allowed me to learn and practice the node process object and to practice writing tests. *Because this was originally forked from a private repo, I unfortunately do not have the entire commit history displayed publicly.*
