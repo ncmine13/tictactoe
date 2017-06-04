@@ -1,7 +1,8 @@
 # tictactoe
+
 An unbeatable tic tac toe game written in node and running in the command line
 
-To play: clone the repo and run node game.js from the js folder in the root directory. Make sure you have Node.js installed globally.
+To play: clone the repo and run `node game.js` from the js folder in the root directory. Make sure you have Node.js installed globally.
 
 
 
